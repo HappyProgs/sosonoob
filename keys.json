@@ -9,6 +9,11 @@
             "name": "HappyProg",
             "key": "free01",
             "expires": "2025-05-19"
-        }
+        },
+        {
+            "name": "HappyProg 3",
+            "key": "adminLOL",
+            "expires": "2026-05-17"
+        },
     ]
 }
