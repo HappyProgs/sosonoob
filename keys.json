@@ -1,5 +1,5 @@
     {
-      "version": "0.1", // Add this line to keys.json
+      "version": "0.1",
       "users": [
         {
           "name": "HappyProg 2",
