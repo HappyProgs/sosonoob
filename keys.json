@@ -1,19 +1,15 @@
-{
-    "users": [
+    {
+      "version": "0.1", // Add this line to keys.json
+      "users": [
         {
-            "name": "HappyProg 2",
-            "key": "free011",
-            "expires": "2025-05-17"
+          "name": "HappyProg 2",
+          "key": "free011",
+          "expires": "2025-05-17"
         },
         {
-            "name": "HappyProg",
-            "key": "free01",
-            "expires": "2025-05-19"
-        },
-        {
-            "name": "HappyProg 3",
-            "key": "adminLOL",
-            "expires": "2026-05-17"
-        },
-    ]
-}
+          "name": "HappyProg",
+          "key": "free01",
+          "expires": "2065-05-19"
+        }
+      ]
+    }
