@@ -2,14 +2,14 @@
     "version": "0.1",
     "users": [
         {
-            "name": "HappyProg 2",
-            "key": "free011",
-            "expires": "2025-05-17"
+            "name": "ХотКэт",
+            "key": "hotcat",
+            "expires": "2026-05-17"
         },
         {
             "name": "HappyProg",
-            "key": "free01",
-            "expires": "2025-05-19"
+            "key": "happy",
+            "expires": "2026-05-19"
         }
     ]
 }
